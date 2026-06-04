@@ -43,6 +43,14 @@ Deployed application:
 
 /maven-web-app
 
+Challenges Faced
+
+- Pods remained in Pending state due to EKS node capacity limits.
+- Diagnosed issue using kubectl get events.
+- Identified "Too many pods" scheduling error.
+- Recreated worker node group with larger capacity.
+- Verified pod health and LoadBalancer connectivity.
+
 ## Screenshots
 
 (Add Jenkins, EKS and application screenshots here)
