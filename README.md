@@ -51,7 +51,7 @@ Challenges Faced
 - Recreated worker node group with larger capacity.
 - Verified pod health and LoadBalancer connectivity.
 
-## Screenshots
 
-(Add Jenkins, EKS and application screenshots here)
+
+
 
