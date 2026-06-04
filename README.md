@@ -51,6 +51,9 @@ Challenges Faced
 - Recreated worker node group with larger capacity.
 - Verified pod health and LoadBalancer connectivity.
 
+Note: The application was deployed on AWS Free Tier for demonstration purposes.
+Infrastructure has been decommissioned to avoid ongoing cloud charges.
+Deployment screenshots and architecture diagrams are included below.
 
 
 
